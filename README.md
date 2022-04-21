@@ -11,6 +11,7 @@ You are required to model the demand for shared bikes with the available indepen
 ## Conclusions
 
 FINAL RESULT COMPARISON:
+
 Train data r^2 : 79.3
 
 Test data r^2 : 77.93
